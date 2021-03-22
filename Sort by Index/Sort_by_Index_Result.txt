@@ -1,0 +1,12 @@
+Enter number of elements: 6
+Enter information (First name, Last name, Phone #): Dongryul,Kim,7189028882
+Enter information (First name, Last name, Phone #): Yesel,Eom,9423314923
+Enter information (First name, Last name, Phone #): Tony,Stark,2931842491
+Enter information (First name, Last name, Phone #): Michael,Jackson,1958080029
+Enter information (First name, Last name, Phone #): David,Beckham,1975050002
+Enter information (First name, Last name, Phone #): Christiano,Ronaldo,0005025891
+[['Christiano', 'Ronaldo', '0005025891'], ['David', 'Beckham', '1975050002'], ['Dongryul', 'Kim', '7189028882'], ['Michael', 'Jackson', '1958080029'], ['Tony', 'Stark', '2931842491'], ['Yesel', 'Eom', '9423314923']]
+
+[['David', 'Beckham', '1975050002'], ['Yesel', 'Eom', '9423314923'], ['Michael', 'Jackson', '1958080029'], ['Dongryul', 'Kim', '7189028882'], ['Christiano', 'Ronaldo', '0005025891'], ['Tony', 'Stark', '2931842491']]
+
+[['Christiano', 'Ronaldo', '0005025891'], ['Michael', 'Jackson', '1958080029'], ['David', 'Beckham', '1975050002'], ['Tony', 'Stark', '2931842491'], ['Dongryul', 'Kim', '7189028882'], ['Yesel', 'Eom', '9423314923']]
